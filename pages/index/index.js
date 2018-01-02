@@ -1,4 +1,5 @@
-//index.js
+﻿//index.js
+//mytest1
 //获取应用实例
 //edit by cyrus
 const app = getApp()
